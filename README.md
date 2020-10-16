@@ -24,7 +24,7 @@ getting a total price of all products in our basket. The store data looks like t
 
 ```js
 const products = [
-  { name: 'Shampoo', price: 4.99 },
+  { name: 'Shampoo', price: 4.99 }, 
   { name: 'Donuts', price: 7.99 },
   { name: 'Cookies', price: 6.49 },
   { name: 'Bath Gel', price: 13.99 }
